@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         print("testing")
     }
 
-
+    func testing2() {
+        print("I am Yisoooo")
+    }
 }
 
